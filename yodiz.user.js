@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Keyprism3 Yodiz
 // @namespace    http://mrobbinsassoc.com/
-// @version      0.0.1
+// @version      0.0.2
 // @description  Allows interaction of Yodiz, TheBrain and Visual Paradigm
 // @author       Mark Robbins
 // @match        https://app.yodiz.com/plan/pages/board.vz*
